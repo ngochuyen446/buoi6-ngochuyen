@@ -1,0 +1,15 @@
+h1 {
+    color:red;
+}
+table{
+    font-size: 20px;
+    border-collapse:collapse;
+}
+tr,th,td{
+    color:rgb(0, 0, 0);   
+    border: 1.5px  solid rgb(0, 0, 0); 
+}
+tr:nth-child(even) { background-color:#ff5c5c;}
+tr:nth-child(odd) { background-color:#ffe0e0 ;}
+
+#m {text-align:center;}
